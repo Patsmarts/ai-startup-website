@@ -1,0 +1,6 @@
+#!/bin/bash
+
+while ping 8.8.8.8
+do
+echo "server is up"
+done
