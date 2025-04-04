@@ -1,19 +1,17 @@
 # Technical Environment Setup Project
-# Patrick Peter
+This project showcases my technical environment setup for mini project in module1
 
+Installed Tools
 
-In this project I setup my technical environment needed for my DevOps journey.
+1. Running Ubuntu OS (Installed ubuntu). ![sudo](./img/Installed%20Ubuntu.png)
 
-PREREQUISITE REQUIREMENTS
-1. I have internet connection to access cloud services, documentation, and online repository
-2. I have functioning computer running Ubuntu OS with recommended specifications for adequate perfomance throughout the course. ![sudo](./img/ubuntu.png)
+2. VScode installed ![sudo](./img/Visual%20Studio%20Code%20(VSCode)%20Installation.png)
 
-TOOLS REQUIREMENTS
-1. VScode installed and functioning ![sudo](./img/VSCode.png)
-2. Git is installed ![sudo](./img/git.png)
-3. Installed Virtual Box ![sudo](./img/virtualbox.png)
+3. Installed Virtual Box ![sudo](./img/Virtual%20box%20installation.png)
+
+4. Git is installed ![sudo](./img/Installed%20Git.png)
 
 ACCOUNTS CREATED
-1. Github ![sudo](./img/github.png)
-2. Amazon Web Services (AWS) ![sudo](./img/aws.png)
+1. Github Account![sudo](./img/Github%20Account.png)
+2. Amazon Web Services (AWS) Account![sudo](./img/Amazon%20Web%20Services%20(AWS)%20Account.png)
 
